@@ -1,0 +1,50 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "",
+      "email": "docemel@sodoce.com.br",
+      "senha": "brigadeiro123"
+    }
+    
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "BOLO VULCÃO",
+      "descricao": "BOLO DA DONA MARIA",
+      "preco": 29.99,
+      "categoria": "BOLO",
+      "imagemUrl": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/6cf1bb7359f2dca08445c83ff58bf3bf.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "COCA - COLA",
+      "categoria": "BEBIDAS",
+      "preco": "10",
+      "imagemUrl": "https://lojasrede.vtexassets.com/arquivos/ids/358462-1000-auto/798004-coca-lata.webp"
+    },
+    {
+      "id": "3",
+      "nome": "TORTA",
+      "categoria": "TORTA",
+      "preco": "20.00",
+      "imagemUrl": "https://www.portalumami.com.br/app/uploads/2023/11/Torta-de-atum-03crop.jpg"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "TORTA"
+    },
+    {
+      "id": "2",
+      "nome": "BOLA"
+    },
+    {
+      "id": "3",
+      "nome": "BEBIDAS"
+    }
+   
+  ]
+}
